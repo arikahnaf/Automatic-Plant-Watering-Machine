@@ -70,3 +70,10 @@ Built using:
 - Java + Firmata4j
 - Arduino Uno + Sensors
 - StdDraw (from Princeton's IntroCS library)
+
+---
+
+## 🧩 Alternative Implementation
+
+A **simpler version** of this project is also available using **MATLAB**.  
+Refer to the `MinorProjectAhnaf.m` file for the MATLAB implementation.
